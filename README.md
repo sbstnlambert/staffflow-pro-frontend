@@ -1,3 +1,5 @@
+![StaffFlow Pro Illustration](./src/assets/screenshot/staffflowpro.PNG)
+
 # Staffflow Pro
 
 Staffflow Pro is a simple employee management application showcasing the use of Java Spring (backend) and Angular (frontend).
